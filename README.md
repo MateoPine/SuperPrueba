@@ -23,4 +23,7 @@ prueita 1 2 3 si si comitnfvhfthfhth
 
 prueba sin bonre con entre commillas
 
-<!-- -->
+<!--link que me lleve a otra pestaña -->
+[GIT2](https://github.com "como")
+
+prontotexto
